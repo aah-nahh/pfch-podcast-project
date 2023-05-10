@@ -15,9 +15,6 @@ apple = 'html/source_apple_us.html'
 spotify = 'html/source_spotify_us.html'
 chartable = 'html/source_chartable_global.html'
 
-#make sure in correct directory!
-#make sure each chart list is separate - don't run thru all html files
-
 templist = []
 c_list = []
 s_list = []
